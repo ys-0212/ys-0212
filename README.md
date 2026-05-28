@@ -21,7 +21,6 @@
 ```python
 class YogendraSingh:
     college  = "IIT Indore — B.Tech Electrical Engineering |"
-    cp       = "Codeforces Specialist | Max Rating 1465 | @yogendra2005"
     quote    = "I build systems that learn from data and scale in production 🚀"
 ```
 
