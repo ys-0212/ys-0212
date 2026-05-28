@@ -42,9 +42,6 @@ class YogendraSingh:
 ### 🛡️ [Sentinel AI](https://github.com/ys-0212/Sentinel-AI) — Smart City Cybersecurity Suite
 `Indore Tech Hackathon (ISCDL, Govt. of India) · Aug 2025 – Jan 2026 · 🥈 2nd Place`
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 A full-stack AI platform integrating **5 detection modules** — phishing, deepfake, live scam call detection, biometric authentication, and an NLP grievance chatbot — deployed for smart city governance.
 
@@ -60,9 +57,6 @@ A full-stack AI platform integrating **5 detection modules** — phishing, deepf
 ### 🧬 [PolyRead](https://github.com/ys-0212/POLYREAD) — Multilingual OCR-to-Speech
 `IITI Summer of Code 2025 · May – Jul 2025`
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-
 End-to-end **accessibility pipeline** — PaddleOCR v4 for multi-script extraction, fine-tuned RoBERTa on the OSCAR corpus (10 languages) for language detection, and Google Translate + pyttsx3 TTS for both online and offline environments.
 
 ---
@@ -70,21 +64,12 @@ End-to-end **accessibility pipeline** — PaddleOCR v4 for multi-script extracti
 ### 🧠 [ChronicleOS](https://github.com/Rishabhmk25/chronicleos) — Semantic Memory Engine &nbsp;·&nbsp; [Live ↗](https://chronicalos.vercel.app)
 `Personal Project · Oct – Nov 2025`
 
-![Postgres](https://img.shields.io/badge/pgvector%2FPostgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-
 A **"second brain" over your browsing history** — hybrid search fusing pgvector (768-dim embeddings) + BM25 Okapi at 60/40, DBSCAN for session clustering, Groq Llama-3 RAG for labeling, and a Neo4j AuraDB Graph RAG pipeline for multi-hop reasoning.
 
 ---
 
 ### ⚡ [ContestMind](https://github.com/ys-0212/ContestMind) — AI CP Coach
 `Personal Project · Nov – Dec 2025`
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 
 Codeforces-integrated **personalized CP training platform** — LightGBM solvability estimator, ChromaDB RAG for tag-targeted problem recommendations, progressive LLM hint system (constraints → observations → guidance), and Piston-based in-browser code execution.
 
