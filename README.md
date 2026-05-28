@@ -29,13 +29,12 @@ class YogendraSingh:
 
 ## 💼 Experience
 
-**🏥 Charak Center for Digital Healthcare** &nbsp;·&nbsp; Data Analyst & ML Engineer *(SIDDHI 4.0)*
+**🏥 Charak Center for Digital Healthcare** · Data Analyst & ML Engineer *(SIDDHI 4.0)*  
 `Remote · May – Jul 2025`
 
-- Benchmarked **ResNet, ViT, and CLIP ViT-B/16**; selected CLIP for diabetic retinopathy classification — achieved **96.52% test accuracy** and **93.73% sensitivity** via progressive fine-tuning with Focal Loss
-- Engineered a **self-supervised data refinement loop** to filter mislabeled samples using intermediate predictions, boosting accuracy from ~88% → 96.52%
-- Built a **Random Forest clinical risk model** (7 features); permutation importance flagged HbA1c & FBS as dominant predictors; contributed to the screening web application
-
+- Trained and compared deep learning models for diabetic retinopathy detection, improving accuracy from ~88% to 96.52% through iterative fine-tuning and data cleaning.
+- Built a pipeline to identify and remove noisy/mislabeled samples using model predictions, significantly improving overall performance.
+- Developed a Random Forest–based clinical risk predictor and contributed to its integration into a healthcare screening web app.
 ---
 
 ## 🚀 Projects
