@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogendra%20Singh&fontSize=54&fontColor=fff&animation=twinkling&fontAlignY=50"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Building+systems+that+learn+%F0%9F%A7%A0;IIT+Indore+%E2%80%A2+B.Tech+EE+%E2%80%A2+CGPA+8.86;Codeforces+Specialist+%7C+Rating+1465+%E2%9A%A1;2nd+%40+Indore+Tech+Hackathon+2025+%F0%9F%A5%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Building+systems+that+learn+%F0%9F%A7%A0;IIT+Indore+%E2%80%A2+B.Tech+EE+%E2%80%A2;Codeforces+Specialist+%7C+Rating+1465+%E2%9A%A1;2nd+%40+Indore+Tech+Hackathon+2025+%F0%9F%A5%88)](https://git.io/typing-svg)
 
 <br/>
 
