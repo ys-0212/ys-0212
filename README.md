@@ -106,10 +106,6 @@ Codeforces-integrated **personalized CP training platform** — LightGBM solvabi
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ys-0212&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ys-0212&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
 <img width="65%" src="https://streak-stats.demolab.com/?user=ys-0212&theme=tokyonight&hide_border=false"/>
 
 </div>
