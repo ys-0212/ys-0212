@@ -102,16 +102,6 @@ Codeforces-integrated **personalized CP training platform** — LightGBM solvabi
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com/?user=ys-0212&theme=tokyonight&hide_border=false"/>
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 | | |
