@@ -43,7 +43,6 @@ class YogendraSingh:
         return [
             "🥈 2nd Place  — Indore Tech Hackathon 2025 (ISCDL, Govt. of India)",
             "🥇 Gold Award — International Invitational Math Optimization Challenge (IIMOC) 2025",
-            "📊 JEE Advanced AIR 7828  |  JEE Mains 98.34 percentile",
         ]
 ```
 
