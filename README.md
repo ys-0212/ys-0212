@@ -112,8 +112,6 @@ Codeforces-integrated **personalized CP training platform** — LightGBM solvabi
 
 <img width="65%" src="https://streak-stats.demolab.com/?user=ys-0212&theme=tokyonight&hide_border=false"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ys-0212&theme=tokyonight&no-frame=false&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
