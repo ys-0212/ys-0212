@@ -215,37 +215,6 @@ An **intelligent CP coach** that knows your weaknesses better than you do:
 
 ---
 
-## 🏆 Achievements & Recognition
-
-| 🏅 | Achievement | Year |
-|----|-------------|------|
-| 🥈 | **2nd Place** — Indore Tech Hackathon (ISCDL, Govt. of India) for **Sentinel AI** | 2025–26 |
-| 🥇 | **Gold Award** — International Invitational Math Optimization Challenge **(IIMOC)** | 2025 |
-| ⚡ | **Codeforces Specialist** — Max Rating **1465**, Handle: `yogendra2005` | 2026 |
-| 📐 | **JEE Advanced** — AIR **7828** among 48,000+ qualified students | 2024 |
-| 📊 | **JEE Mains** — **98.34 percentile** among 14+ lakh students | 2024 |
-
----
-
-## 🎓 Courses & Learning
-
-```
-🤖 Machine Learning   →   ML in Signal Processing · Fundamentals of Optimisation · Intro to Programming
-📐 Mathematics        →   Linear Algebra · Calculus · Differential Equations · Complex Analysis · Numerical Methods
-⚡ Electrical Engg    →   Network Theory · Electronic Devices · Digital Systems · Electrical Machines
-```
-
----
-
-## 🧩 Positions of Responsibility
-
-| Role | Organization | Period |
-|------|-------------|--------|
-| 🤖 **Outreach Head & AI/ML Division Member** | Google Developers Group (GDG), IIT Indore | Sep 2025 – Present |
-| 🚀 **Head of Campus Relations & Outreach Coordinator** | E-Summit, E-Cell IIT Indore | Apr 2025 – Aug 2025 |
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
