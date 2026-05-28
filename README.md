@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 `whoami`
+##  `whoami`
 
 ```python
 class YogendraSingh:
@@ -27,9 +27,9 @@ class YogendraSingh:
 
 ---
 
-## 💼 Experience
+## Experience
 
-**🏥 Charak Center for Digital Healthcare** · Data Analyst & ML Engineer *(SIDDHI 4.0)*  
+** Charak Center for Digital Healthcare** · Data Analyst & ML Engineer *(SIDDHI 4.0)*  
 `Remote · May – Jul 2025`
 
 - Trained and compared deep learning models for diabetic retinopathy detection, improving accuracy from ~88% to 96.52% through iterative fine-tuning and data cleaning.
@@ -37,9 +37,9 @@ class YogendraSingh:
 - Developed a Random Forest–based clinical risk predictor and contributed to its integration into a healthcare screening web app.
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🛡️ [Sentinel AI](https://github.com/ys-0212/Sentinel-AI) — Smart City Cybersecurity Suite
+###  [Sentinel AI](https://github.com/ys-0212/Sentinel-AI) — Smart City Cybersecurity Suite
 `Indore Tech Hackathon (ISCDL, Govt. of India) · Aug 2025 – Jan 2026 · 🥈 2nd Place`
 
 
@@ -47,35 +47,35 @@ A full-stack AI platform integrating **5 detection modules** — phishing, deepf
 
 | Module | What it does |
 |--------|-------------|
-| 🎣 Phishing Chrome Extension | Real-time ML-based malicious URL detection |
-| 🎭 Deepfake Detector | CV-based frame analysis for synthetic media |
-| 📞 Scam Call Module | Vosk STT + NLP intent classification on live calls |
-| 🤖 RAG Grievance Bot | Citizen complaint intake + evidence summarizer |
+|  Phishing Chrome Extension | Real-time ML-based malicious URL detection |
+|  Deepfake Detector | CV-based frame analysis for synthetic media |
+|  Scam Call Module | Vosk STT + NLP intent classification on live calls |
+|  RAG Grievance Bot | Citizen complaint intake + evidence summarizer |
 
 ---
 
-### 🧬 [PolyRead](https://github.com/ys-0212/POLYREAD) — Multilingual OCR-to-Speech
+###  [PolyRead](https://github.com/ys-0212/POLYREAD) — Multilingual OCR-to-Speech
 `IITI Summer of Code 2025 · May – Jul 2025`
 
 End-to-end **accessibility pipeline** — PaddleOCR v4 for multi-script extraction, fine-tuned RoBERTa on the OSCAR corpus (10 languages) for language detection, and Google Translate + pyttsx3 TTS for both online and offline environments.
 
 ---
 
-### 🧠 [ChronicleOS](https://github.com/Rishabhmk25/chronicleos) — Semantic Memory Engine &nbsp;·&nbsp; [Live ↗](https://chronicalos.vercel.app)
+###  [ChronicleOS](https://github.com/Rishabhmk25/chronicleos) — Semantic Memory Engine &nbsp;·&nbsp; [Live ↗](https://chronicalos.vercel.app)
 `Personal Project · Oct – Nov 2025`
 
 A **"second brain" over your browsing history** — hybrid search fusing pgvector (768-dim embeddings) + BM25 Okapi at 60/40, DBSCAN for session clustering, Groq Llama-3 RAG for labeling, and a Neo4j AuraDB Graph RAG pipeline for multi-hop reasoning.
 
 ---
 
-### ⚡ [ContestMind](https://github.com/ys-0212/ContestMind) — AI CP Coach
+###  [ContestMind](https://github.com/ys-0212/ContestMind) — AI CP Coach
 `Personal Project · Nov – Dec 2025`
 
 Codeforces-integrated **personalized CP training platform** — LightGBM solvability estimator, ChromaDB RAG for tag-targeted problem recommendations, progressive LLM hint system (constraints → observations → guidance), and Piston-based in-browser code execution.
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -92,32 +92,19 @@ Codeforces-integrated **personalized CP training platform** — LightGBM solvabi
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0078D7?style=for-the-badge)
 
-**Databases & Storage**
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Web & Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
 **Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
