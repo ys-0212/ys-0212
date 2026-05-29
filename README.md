@@ -29,7 +29,7 @@ class YogendraSingh:
 ## Experience
 
 ** Charak Center for Digital Healthcare** · Data Analyst & ML Engineer *(SIDDHI 4.0)*  
-`Remote · May – Jul 2025`
+`Remote · Dec 2025 – Jan 2026`
 
 - Trained and compared deep learning models for diabetic retinopathy detection, improving accuracy from ~88% to 96.52% through iterative fine-tuning and data cleaning.
 - Built a pipeline to identify and remove noisy/mislabeled samples using model predictions, significantly improving overall performance.
