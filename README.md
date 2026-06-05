@@ -2,14 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogendra%20Singh&fontSize=54&fontColor=fff&animation=twinkling&fontAlignY=50"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Building+systems+that+learn+%F0%9F%A7%A0;IIT+Indore+%E2%80%A2+B.Tech+EE;Codeforces+Specialist+%7C+Rating+1465+%E2%9A%A1;2nd+%40+Indore+Tech+Hackathon+2025+%F0%9F%A5%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Building+systems+that+learn+%F0%9F%A7%A0;IIT+Indore+%E2%80%A2+B.Tech+EE;Codeforces+Specialist+%7C+Rating+1583+%E2%9A%A1;2nd+%40+Indore+Tech+Hackathon+2025+%F0%9F%A5%88)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogendrasingh0212)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ys-0212)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogendra.s2005@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1465_Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yogendra2005)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1583_Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yogendra2005)
 [![](https://komarev.com/ghpvc/?username=ys-0212&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS)](https://github.com/ys-0212)
 
 </div>
