@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogendrasingh0212)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ys-0212)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogendra.s2005@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1583_Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yogendra2005)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1589_Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yogendra2005)
 [![](https://komarev.com/ghpvc/?username=ys-0212&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS)](https://github.com/ys-0212)
 
 </div>
